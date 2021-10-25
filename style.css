@@ -1,7 +1,5 @@
 #imge{
-   text-align: center;
-  
-  
+   text-align: center;  
 }
 #title{
     text-align: center;
@@ -15,6 +13,15 @@ h2{
 li{
 
     text-align: justify;
-    
-    max-width: 500px;
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 20px;
 }
+
+#link{
+    font-size: 24px;
+    font-weight: bold;
+}
+body{
+    background-color: lightgrey;
+} 
